@@ -2,20 +2,6 @@
 
 Organized and converted to Markdown from [Wikipedia: Visual Programming Language](http://en.wikipedia.org/wiki/Visual_programming_language) and [Visual Programming Language Snapshots](http://blog.interfacevision.com/design/design-visual-progarmming-languages-snapshots/).
 
-### SketchPad
-
-![SketchPad](images/sketchpad.jpg)
-
-[Wikipedia](http://en.wikipedia.org/wiki/Sketchpad) - [Web Site](http://www.youtube.com/watch?v=495nCzxM9PI&feature=player_embedded)
-
-### GRaIL (Graphical Input Language)
-
-![GRaIL (Graphical Input Language)](images/grail.jpg)
-
-[![Alan Kay Demos GRaIL](https://img.youtube.com/vi/QQhVQ1UG6aM/0.jpg)](https://www.youtube.com/watch?v=QQhVQ1UG6aM)
-
-[PDF](http://www.rand.org/content/dam/rand/pubs/research_memoranda/2005/RM5999.pdf)
-
 ### Aardappel
 
 ![Aardappel](images/aardappel.jpg)
@@ -319,6 +305,14 @@ Organized and converted to Markdown from [Wikipedia: Visual Programming Language
 ![Google Web Designer](images/webdesigner.jpg)
 
 [Wikipedia](http://en.wikipedia.org/wiki/Google_Web_Designer) - [Web Site](https://www.google.com/webdesigner/)
+
+### GRaIL (Graphical Input Language)
+
+![GRaIL (Graphical Input Language)](images/grail.jpg)
+
+[![Alan Kay Demos GRaIL](https://img.youtube.com/vi/QQhVQ1UG6aM/0.jpg)](https://www.youtube.com/watch?v=QQhVQ1UG6aM)
+
+[PDF](http://www.rand.org/content/dam/rand/pubs/research_memoranda/2005/RM5999.pdf)
 
 ### Grasshopper 3D
 
@@ -805,6 +799,12 @@ This has a really cool looking interface.
 ![Sikuli](images/sikuli.jpg)
 
 [Wikipedia](http://en.wikipedia.org/wiki/Sikuli) - [Web Site](http://www.sikuli.org/)
+
+### SketchPad
+
+![SketchPad](images/sketchpad.jpg)
+
+[Wikipedia](http://en.wikipedia.org/wiki/Sketchpad) - [Web Site](http://www.youtube.com/watch?v=495nCzxM9PI&feature=player_embedded)
 
 ### Snap!
 
