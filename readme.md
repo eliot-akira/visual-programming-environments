@@ -918,7 +918,7 @@ This has a really cool looking interface.
 
 ### UDK Kismet
 
-![UDK Kismet](images/udk.jpg)
+![UDK Kismet](images/udkkismet.jpg)
 
 [Web Site](http://www.worldofleveldesign.com/categories/wold-members-tutorials/petebottomley/udk-kismet-introduction.php)
 
@@ -946,18 +946,6 @@ This has a really cool looking interface.
 
 [Web Site](https://github.com/CalumJEadie/video-processing-language-for-the-raspberry-pi)
 
-### VisTrails
-
-![VisTrails](images/VisTrails.jpg)
-
-[Web Site](http://twiki.ipaw.info/bin/view/Challenge/VisTrails)
-
-### Visual JForex
-
-![Visual JForex](images/jforex.jpg)
-
-[Web Site](http://www.dukascopy.com/swiss/english/forex/Visual/features/)
-
 ### Viscuit
 
 ![Viscuit](images/viscuit.jpg)
@@ -965,6 +953,24 @@ This has a really cool looking interface.
 [![Viscuit](https://img.youtube.com/vi/ZdWyahyNepg/0.jpg)](https://www.youtube.com/watch?v=ZdWyahyNepg)
 
 [Web Site](http://www.viscuit.com/)
+
+### VisTrails
+
+![VisTrails](images/VisTrails.jpg)
+
+[Web Site](http://twiki.ipaw.info/bin/view/Challenge/VisTrails)
+
+### Visual Basic
+
+![Visual Basic](images/visual_basic.png)
+
+[Web Site](https://en.wikipedia.org/wiki/Visual_Basic_(classic))
+
+### Visual JForex
+
+![Visual JForex](images/jforex.jpg)
+
+[Web Site](http://www.dukascopy.com/swiss/english/forex/Visual/features/)
 
 ### VRL-Studio
 
