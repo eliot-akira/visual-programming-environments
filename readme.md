@@ -1,6 +1,6 @@
 # Visual Programming Environments
 
-Organized and converted to Markdown from [Wikipedia: Visual Programming Language](http://en.wikipedia.org/wiki/Visual_programming_language) and [Visual Programming Language Snapshots](http://blog.interfacevision.com/design/design-visual-progarmming-languages-snapshots/).
+Organized, converted to Markdown, and standardized images from: [Wikipedia: Visual Programming Language](http://en.wikipedia.org/wiki/Visual_programming_language) and [Visual Programming Language Snapshots](http://blog.interfacevision.com/design/design-visual-progarmming-languages-snapshots/).
 
 **Table of Contents**
 
